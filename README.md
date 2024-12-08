@@ -11,7 +11,7 @@ sudo chmod +x setup.sh
 
 sudo bash setup.sh
 
-python3 network_scanner <ip>
+python3 network_scanner.py <ip>
 
 # Example
 python3 network_scanner.py <ip>
